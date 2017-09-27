@@ -1,2 +1,3 @@
 # hello-world
-Repositorio de iniciação em GitHub
+Repositorio de GitHub
+Olar sou Lucas blablabla
